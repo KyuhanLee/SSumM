@@ -12,11 +12,11 @@ Please see [User Guide](user_guide.pdf)
 ## Running Demo
 For demo, please type 'make'
 
-## Datasets & Authors Information
+## Datasets and Contributors
 The datasets used in the paper and authors information are listed [here](http://dmlab.kaist.ac.kr/ssumm/)
 
-## Terms and conditions
+## Terms and Conditions
 If you use this code as part of any published research, please acknowledge our KDD 2020 paper.
 
-## Contact information
+## Contact Information
 If you have any questions, please contact [Kyuhan Lee]().
