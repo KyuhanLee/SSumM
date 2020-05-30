@@ -19,4 +19,4 @@ The datasets used in the paper and authors information are listed [here](http://
 If you use this code as part of any published research, please acknowledge our KDD 2020 paper.
 
 ## Contact Information
-If you have any questions, please contact [Kyuhan Lee]().
+If you have any questions, please contact [Kyuhan Lee](https://kyuhanlee.github.io/).
