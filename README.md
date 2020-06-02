@@ -1,5 +1,5 @@
 # SSumM: Sparse Summarization of Massive Graphs
-Source code for the paper [SSumM: Sparse Summarization of Massive Graphs](), Kyuhan Lee*, Hyeonsoo Jo*, Jihoon Ko, Sungsu Lim, Kijung Shin, KDD 2020.
+Source code for the paper [SSumM: Sparse Summarization of Massive Graphs](https://arxiv.org/abs/2006.01060), Kyuhan Lee*, Hyeonsoo Jo*, Jihoon Ko, Sungsu Lim, Kijung Shin, KDD 2020.
 
 **SSumM** (**S**parse **Sum**marization of **M**assive Graphs) is a scalable and effective graph summarization algorithm that yields a sparse summary graph. Compared to its state-of-the-art competitors, **SSumM** has the following advantages:
 * *Concise*: yields up to 11.2X smaller summary graphs with similar reconstruction error
